@@ -38,7 +38,7 @@
 
 ### Payment Platforms
 
-* [www.plasso.co](plasso.co)
+* [www.plasso.co]
 
 ### Important Terms
 
