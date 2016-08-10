@@ -19,6 +19,7 @@
 * [Marijn's Sustainable Open Source Fund](https://marijnhaverbeke.nl/fund/) by Marijn Haverbeke
 * [The Perils of Mixing Open Source and Money](http://david.heinemeierhansson.com/2013/the-perils-of-mixing-open-source-and-money.html) by DHH
 * [The Ethics of Unpaid Labor and the OSS Community](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community#loveplay) by Ashe Dryden
+* [Commerce and Open Source](https://opensource.org/faq#category-commerce) by the Open Source Initiative
 
 ### Burnouts
 
