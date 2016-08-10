@@ -2,6 +2,8 @@
 
 > Collection of links around paid/sustainable open source development
 
+**Feel free to add links via PRs and file issues to start discussions.**
+
 ### Perspectives
 
 * [Open Source Ain't Free](https://vimeo.com/53373707) by David DeSandro
