@@ -14,6 +14,7 @@
 * [Charging for Open Source](http://www.mikeperham.com/2015/11/23/how-to-charge-for-your-open-source/) by Mike Perham (author of Sidekiq)
 * [Corporations and OSS do not mix](http://www.coglib.com/~icordasc/blog/2015/11/corporations-and-oss-do-not-mix.html) by Ian Cordasco
 * [More Money for Better Open-Source Software](http://marijnhaverbeke.nl/blog/sustainable-maintenance.html) by Marijn Haverbeke
+* [Marijn's Sustainable Open Source Fund](https://marijnhaverbeke.nl/fund/) by Marijn Haverbeke
 
 ### Burnouts
 
@@ -33,6 +34,12 @@
 
 * [Patreon](https://www.patreon.com/)
 * [BountySource](https://www.bountysource.com/)
+
+### Payment Platforms
+
+* [www.plasso.co](plasso.co)
+
+### Important Terms
 
 *What is dual licensing?*
 
