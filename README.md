@@ -31,6 +31,7 @@
 
 * [Patreon](https://www.patreon.com/)
 * [BountySource](https://www.bountysource.com/)
+* [Open Collective](https://opencollective.com/opensource)
 
 ### Payment Platforms
 
