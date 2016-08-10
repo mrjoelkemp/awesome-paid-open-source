@@ -20,15 +20,7 @@
 * [The Perils of Mixing Open Source and Money](http://david.heinemeierhansson.com/2013/the-perils-of-mixing-open-source-and-money.html) by DHH
 * [The Ethics of Unpaid Labor and the OSS Community](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community#loveplay) by Ashe Dryden
 * [Commerce and Open Source](https://opensource.org/faq#category-commerce) by the Open Source Initiative
-
-### Burnouts
-
-> These projects/authors have suffered due to a lack of sustainable development
-
-* [Moment.js](https://medium.com/@timrwood/moment-endof-term-522d8965689#.ahtn1d58v)
-* [Babel.js](https://medium.com/@sebmck/2015-in-review-51ac7035e272#.1x95v91t3)
-* [TJ Holowaychuk](https://blog.apex.sh/announcing-apex-software-inc-5008c454002#.izwzxkln3)
-* [Ryan Bigg](http://ryanbigg.com/2015/11/open-source-work/)
+* [Open Source Work](http://ryanbigg.com/2015/11/open-source-work/) by Ryan Bigg
 
 ### Reference
 
