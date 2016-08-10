@@ -11,8 +11,8 @@
 * [Vue.js author now works on it full time thanks to donations](https://twitter.com/vuejs/status/750560489462259712) by Evan You
 * [Fine Uploader attempted a FOSS-friendly commercial license](https://medium.com/@RayNicholus/disrupting-open-source-the-story-of-fine-uploader-80160eb557d9#.grwnuak60) by Ray Nicholus
 * [OptaPlanner gets picked up by Red Hat](http://www.optaplanner.org/blog/2016/08/07/ADecadeOfOptaPlanner.html) by Geoffrey De Smet
-* [Open Source Exploitation](http://supportedsource.org/blog/open-source-exploitation-and-burnout)
-* [Redis author sponsored by Pivotal labs](http://antirez.com/news/91)
+* [Open Source Exploitation](http://supportedsource.org/blog/open-source-exploitation-and-burnout) by SupportedSource
+* [Redis author sponsored by Pivotal labs](http://antirez.com/news/91) by Antirez
 * [Charging for Open Source](http://www.mikeperham.com/2015/11/23/how-to-charge-for-your-open-source/) by Mike Perham (author of Sidekiq)
 * [Corporations and OSS do not mix](http://www.coglib.com/~icordasc/blog/2015/11/corporations-and-oss-do-not-mix.html) by Ian Cordasco
 * [More Money for Better Open-Source Software](http://marijnhaverbeke.nl/blog/sustainable-maintenance.html) by Marijn Haverbeke
