@@ -48,6 +48,10 @@
 * [Software Freedom Conservancy](https://sfconservancy.org/members/apply/)
 * [Linux Foundation](https://www.linuxfoundation.org/projects)
 
+### Example Projects
+
+* Synergy (GPL) [charges for downloads](http://symless.com/pricing), but also provides [free access](https://symless.com/purchase/faq/) via a [GitHub repository](https://github.com/symless/synergy).
+
 ### FAQ
 
 ##### What is dual licensing?
