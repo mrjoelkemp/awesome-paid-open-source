@@ -22,6 +22,8 @@
 * [Commerce and Open Source](https://opensource.org/faq#category-commerce) by the Open Source Initiative
 * [Open Source Work](http://ryanbigg.com/2015/11/open-source-work/) by Ryan Bigg
 * [Who Pays to Keep OS Software Working?](https://www.thoughtworks.com/mingle/news/2015/04/09/Paying-For-Open-Source.html) by Jen Quraishi
+* [Github Issues and Mental Health](http://bumpers.fm/e/audr171motkg00tb32sg) by Dave DeSandro
+* [The Path to Full-time Open Source](http://www.mikeperham.com/2014/10/01/the-path-to-full-time-open-source/) by Mike Perham
 
 ### Reference
 
