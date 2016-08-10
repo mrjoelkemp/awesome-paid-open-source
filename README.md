@@ -21,6 +21,7 @@
 * [The Ethics of Unpaid Labor and the OSS Community](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community#loveplay) by Ashe Dryden
 * [Commerce and Open Source](https://opensource.org/faq#category-commerce) by the Open Source Initiative
 * [Open Source Work](http://ryanbigg.com/2015/11/open-source-work/) by Ryan Bigg
+* [Who Pays to Keep OS Software Working?](https://www.thoughtworks.com/mingle/news/2015/04/09/Paying-For-Open-Source.html) by Jen Quraishi
 
 ### Reference
 
