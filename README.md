@@ -40,11 +40,22 @@
 
 * [plasso.co](https://plasso.co/)
 
-### Important Terms
+### Open Source Software Foundations
 
-*What is dual licensing?*
+* [jQuery Foundation](https://jquery.org/)
+* [The Apache Software Foundation](http://www.apache.org/foundation/how-it-works.html#what)
+* [Software Freedom Conservancy](https://sfconservancy.org/members/apply/)
+* [Linux Foundation](https://www.linuxfoundation.org/projects)
+
+### FAQ
+
+##### What is dual licensing?
 
 > "The first license is a GPL-like license, which is free but forces users to disclose the source code of any modified version of the original design. The second is a commercial license, which has a fee but allows buyers to conceal the source code of any modified version." (http://www.osbr.ca/ojs/index.php/osbr/article/view/570/523)
+
+##### What does an open source software foundation do?
+
+* Mike Sherov's (jQuery Foundation) [answer on the matter](https://github.com/mrjoelkemp/awesome-paid-open-source/issues/2#issuecomment-238752181).
 
 ## License
 
