@@ -2,7 +2,7 @@
 
 > Collection of links around paid/sustainable open source development
 
-### Inspiration
+### Perspectives
 
 * [Open Source Ain't Free](https://vimeo.com/53373707) by David DeSandro
 * [Money and Open Source](https://medium.com/open-source-life/money-and-open-source-d44a1953749c#.wim9wlhwx) by Isaac Schleuter
@@ -15,6 +15,8 @@
 * [Corporations and OSS do not mix](http://www.coglib.com/~icordasc/blog/2015/11/corporations-and-oss-do-not-mix.html) by Ian Cordasco
 * [More Money for Better Open-Source Software](http://marijnhaverbeke.nl/blog/sustainable-maintenance.html) by Marijn Haverbeke
 * [Marijn's Sustainable Open Source Fund](https://marijnhaverbeke.nl/fund/) by Marijn Haverbeke
+* [The Perils of Mixing Open Source and Money](http://david.heinemeierhansson.com/2013/the-perils-of-mixing-open-source-and-money.html) by DHH
+* [The Ethics of Unpaid Labor and the OSS Community](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community#loveplay) by Ashe Dryden
 
 ### Burnouts
 
