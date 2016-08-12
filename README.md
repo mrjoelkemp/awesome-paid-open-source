@@ -91,6 +91,7 @@
 - [Fine Uploader](http://fineuploader.com) is sponsored by Widen.
 - [Imageflow](https://www.imageflow.io) (APGLv3) [successfully funded development effort on Kickstarter](https://www.kickstarter.com/projects/njones/imageflow-respect-the-pixels-a-secure-alt-to-image).
 - [Phaser](http://phaser.io) (MIT) is [sponsored on Patreon](https://www.patreon.com/photonstorm).
+- [Brunch](http://brunch.io) (MIT) is sponsored by [Hell Yeah](http://hellyeah.is).
 
 ### FAQ and Key Terms
 
