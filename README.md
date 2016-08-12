@@ -52,7 +52,7 @@
 
 - Synergy (GPL) [charges for downloads](http://symless.com/pricing), but also provides [free access](https://symless.com/purchase/faq) via a [GitHub repository](https://github.com/symless/synergy).
 
-### FAQ
+### FAQ and Key Terms
 
 #### Dual licensing
 
