@@ -41,6 +41,9 @@
 ### Payment Platforms
 
 - [plasso.co](https://plasso.co)
+- [Gumroad](https://gumroad.com)
+- [Simple Goods](https://simplegoods.co)
+- [Pulley](http://pulleyapp.com)
 
 ### Open Source Software Foundations
 
@@ -56,13 +59,21 @@
 - [Synergy](https://github.com/symless/synergy) (GPL) [charges for downloads](http://symless.com/pricing), but also provides [free access](https://symless.com/purchase/faq).
 - [Sidekiq](https://github.com/mperham/sidekiq/) (LGPLv3) [offers pro and enterprise add-ons](http://sidekiq.org/products/pro), but offers free access for a hobbyist usage level.
 - [Greenkeeper](https://github.com/greenkeeperio/greenkeeper) (Apache-2.0) [offers premium individual and organization levels of usage](https://greenkeeper.io/#pricing), but offers free usage for open source projects.
-- [Isotope](https://github.com/metafizzy/isotope) (GPLv3) [charges for commercial usage](http://isotope.metafizzy.co/license.html) but remains free to use for GPLv3-licensed projects.
 - [npm](https://github.com/npm/npm) (Artistic-2.0) is free to use for all projects, but offers [premium individual and enterprise add-ons](https://www.npmjs.com/pricing).
 - [Ember.js](https://github.com/emberjs/ember.js) (MIT) is free to use for all projects, but [premium consulting and training services](http://www.tilde.io/ember-consulting/) are provided by the authors.
 - [Meteor.js](https://github.com/meteor/meteor) (MIT) is free to use for all projects, but offers a [premium hosting solution](https://www.meteor.com/pricing) for meteor projects.
 - [Intern](https://github.com/theintern/intern) (New BSD) is free to use for all projects, but has [premium support](https://www.sitepen.com/support/index.html) offered by SitePen.
 - [Docker](https://github.com/docker/docker) (Apache 2.0) is free to use for all projects, but offers [premium hosting and training support](https://www.docker.com/pricing).
 - [Tern.js](https://github.com/ternjs/tern) (MIT) is free to use for all projects, but releases language expansion packs via [crowdfunded campaigns](https://www.bountysource.com/issues/1141202-support-es6-features).
+- [JW Player](https://www.jwplayer.com) (CC-BY-NC) [charges for streaming video service and ad platform](https://www.jwplayer.com/get-started/)
+
+> These projects are dual-licensed. They require a paid license for non-commercial or closed-source use, but offer a free license for non-commercial or open-source use.
+
+- [Isotope](http://isotope.metafizzy.co), [Flickity](https://flickity.metafizzy.co), [Packery](http://packery.metafizzy.co) (GPLv3)
+- [Sequence.js](http://www.sequencejs.com) (GPLv3)
+- [MixItUp](https://mixitup.kunkalabs.com) (CC-BY-NC)
+- [Highcharts](http://www.highcharts.com) (CC-BY-NC)
+- [Fresco](http://www.frescojs.com), [Tipped](http://www.tippedjs.com), [Strip](http://www.stripjs.com), [Lightview](http://projects.nickstakenburg.com/lightview)
 
 ### Sponsored Projects
 
@@ -78,6 +89,8 @@
 - [React.js](https://github.com/facebook/react) is sponsored by Facebook.
 - [Dojo](https://github.com/dojo/dojo) is sponsored by SitePen under the Dojo Foundation.
 - [Fine Uploader](http://fineuploader.com) is sponsored by Widen.
+- [Imageflow](https://www.imageflow.io) (APGLv3) [successfully funded development effort on Kickstarter](https://www.kickstarter.com/projects/njones/imageflow-respect-the-pixels-a-secure-alt-to-image).
+- [Phaser](http://phaser.io) (MIT) is [sponsored on Patreon](https://www.patreon.com/photonstorm).
 
 ### FAQ and Key Terms
 
