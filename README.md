@@ -61,6 +61,7 @@
 - [Ember.js](https://github.com/emberjs/ember.js) (MIT) is free to use for all projects, but [premium consulting and training services](http://www.tilde.io/ember-consulting/) are provided by the authors.
 - [Meteor.js](https://github.com/meteor/meteor) (MIT) is free to use for all projects, but offers a [premium hosting solution](https://www.meteor.com/pricing) for meteor projects.
 - [Intern](https://github.com/theintern/intern) (New BSD) is free to use for all projects, but has [premium support](https://www.sitepen.com/support/index.html) offered by SitePen.
+- [Docker](https://github.com/docker/docker) (Apache 2.0) is free to use for all projects, but offers [premium hosting and training support](https://www.docker.com/pricing).
 
 ### Sponsored Projects
 
