@@ -74,6 +74,7 @@
 - [Angular.js](https://github.com/angular/angular.js) is sponsored by Google.
 - [React.js](https://github.com/facebook/react) is sponsored by Facebook.
 - [Dojo](https://github.com/dojo/dojo) is sponsored by SitePen under the Dojo Foundation.
+- [Fine Uploader](http://fineuploader.com) is sponsored by Widen.
 
 ### FAQ and Key Terms
 
