@@ -36,6 +36,7 @@
 - [Patreon](https://www.patreon.com)
 - [BountySource](https://www.bountysource.com)
 - [Open Collective](https://opencollective.com/opensource)
+- [Indiegogo](https://www.indiegogo.com)
 
 ### Payment Platforms
 
@@ -50,7 +51,28 @@
 
 ### Example Projects
 
-- Synergy (GPL) [charges for downloads](http://symless.com/pricing), but also provides [free access](https://symless.com/purchase/faq) via a [GitHub repository](https://github.com/symless/synergy).
+> A collection of paid open source projects to use as a reference for your own efforts.
+
+- [Synergy](https://github.com/symless/synergy) (GPL) [charges for downloads](http://symless.com/pricing), but also provides [free access](https://symless.com/purchase/faq).
+- [Sidekiq](https://github.com/mperham/sidekiq/) (LGPLv3) [offers pro and enterprise add-ons](http://sidekiq.org/products/pro), but offers free access for a hobbyist usage level.
+- [Greenkeeper](https://github.com/greenkeeperio/greenkeeper) (Apache-2.0) [offers premium individual and organization levels of usage](https://greenkeeper.io/#pricing), but offers free usage for open source projects.
+- [Isotope](https://github.com/metafizzy/isotope) (GPLv3) [charges for commercial usage](http://isotope.metafizzy.co/license.html) but remains free to use for GPLv3-licensed projects.
+- [npm](https://github.com/npm/npm) (Artistic-2.0) is free to use for all projects, but offers [premium individual and enterprise add-ons](https://www.npmjs.com/pricing).
+- [Ember.js](https://github.com/emberjs/ember.js) (MIT) is free to use for all projects, but [premium consulting and training services](http://www.tilde.io/ember-consulting/) are provided by the authors.
+- [Meteor.js](https://github.com/meteor/meteor) (MIT) is free to use for all projects, but offers a [premium hosting solution](https://www.meteor.com/pricing) for meteor projects.
+- [Intern](https://github.com/theintern/intern) (New BSD) is free to use for all projects, but has [premium support](https://www.sitepen.com/support/index.html) offered by SitePen.
+
+### Sponsored Projects
+
+> These projects are/were sponsored by organizations or donation-based backers.
+
+- [Vue.js](https://github.com/vuejs/vue) is sponsored by donations via [a Patreon campaign](https://www.patreon.com/evanyou).
+- [Redis](https://github.com/antirez/redis) was sponsored by [Pivotal labs and other backers](http://redis.io/topics/sponsors) and now sponsored by Redis Labs.
+- [Prosemirror](https://github.com/ProseMirror/prosemirror) was sponsored via a [kickstarter-like campaign on Indiegogo](https://www.indiegogo.com/projects/prosemirror#/).
+- [Ghost](https://github.com/TryGhost/Ghost) was sponsored via a [kickstarter campaign](https://www.kickstarter.com/projects/johnonolan/ghost-just-a-blogging-platform).
+- [Angular.js](https://github.com/angular/angular.js) is sponsored by Google.
+- [React.js](https://github.com/facebook/react) is sponsored by Facebook.
+- [Dojo](https://github.com/dojo/dojo) is sponsored by SitePen under the Dojo Foundation.
 
 ### FAQ and Key Terms
 
