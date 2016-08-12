@@ -68,6 +68,7 @@
 > These projects are/were sponsored by organizations or donation-based backers.
 
 - [Vue.js](https://github.com/vuejs/vue) is sponsored by donations via [a Patreon campaign](https://www.patreon.com/evanyou).
+- [react-boilerplate](https://github.com/mxstbr/react-boilerplate) is sponsored by donations via an [Open Collective](https://opencollective.com/react-boilerplate) campaign.
 - [Redis](https://github.com/antirez/redis) was sponsored by [Pivotal labs and other backers](http://redis.io/topics/sponsors) and now sponsored by Redis Labs.
 - [Prosemirror](https://github.com/ProseMirror/prosemirror) was sponsored via a [kickstarter-like campaign on Indiegogo](https://www.indiegogo.com/projects/prosemirror#/).
 - [Ghost](https://github.com/TryGhost/Ghost) was sponsored via a [kickstarter campaign](https://www.kickstarter.com/projects/johnonolan/ghost-just-a-blogging-platform).
