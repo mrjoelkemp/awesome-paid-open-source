@@ -51,6 +51,7 @@
 - [The Apache Software Foundation](http://www.apache.org/foundation/how-it-works.html#what)
 - [Software Freedom Conservancy](https://sfconservancy.org/members/apply)
 - [Linux Foundation](https://www.linuxfoundation.org/projects)
+- [Open Source Robotics Foundation](http://www.osrfoundation.org)
 
 ### Example Projects
 
