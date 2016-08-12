@@ -62,6 +62,7 @@
 - [Meteor.js](https://github.com/meteor/meteor) (MIT) is free to use for all projects, but offers a [premium hosting solution](https://www.meteor.com/pricing) for meteor projects.
 - [Intern](https://github.com/theintern/intern) (New BSD) is free to use for all projects, but has [premium support](https://www.sitepen.com/support/index.html) offered by SitePen.
 - [Docker](https://github.com/docker/docker) (Apache 2.0) is free to use for all projects, but offers [premium hosting and training support](https://www.docker.com/pricing).
+- [Tern.js](https://github.com/ternjs/tern) (MIT) is free to use for all projects, but releases language expansion packs via [crowdfunded campaigns](https://www.bountysource.com/issues/1141202-support-es6-features).
 
 ### Sponsored Projects
 
@@ -69,8 +70,9 @@
 
 - [Vue.js](https://github.com/vuejs/vue) is sponsored by donations via [a Patreon campaign](https://www.patreon.com/evanyou).
 - [react-boilerplate](https://github.com/mxstbr/react-boilerplate) is sponsored by donations via an [Open Collective](https://opencollective.com/react-boilerplate) campaign.
-- [Redis](https://github.com/antirez/redis) was sponsored by [Pivotal labs and other backers](http://redis.io/topics/sponsors) and now sponsored by Redis Labs.
+- [Redis](https://github.com/antirez/redis) was sponsored by [Pivotal labs and other backers](http://redis.io/topics/sponsors) and is now sponsored by Redis Labs.
 - [Prosemirror](https://github.com/ProseMirror/prosemirror) was sponsored via a [kickstarter-like campaign on Indiegogo](https://www.indiegogo.com/projects/prosemirror#/).
+- [Tern.js](https://github.com/ternjs/tern) was sponsored via a [crowdfunded campaign on Indiegogo](https://www.indiegogo.com/projects/tern-intelligent-javascript-editing#/).
 - [Ghost](https://github.com/TryGhost/Ghost) was sponsored via a [kickstarter campaign](https://www.kickstarter.com/projects/johnonolan/ghost-just-a-blogging-platform).
 - [Angular.js](https://github.com/angular/angular.js) is sponsored by Google.
 - [React.js](https://github.com/facebook/react) is sponsored by Facebook.
