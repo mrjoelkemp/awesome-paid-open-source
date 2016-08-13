@@ -46,6 +46,10 @@
 - [Simple Goods](https://simplegoods.co)
 - [Pulley](http://pulleyapp.com)
 
+### Profit-sharing Platforms
+
+- [BountySource Salt](https://salt.bountysource.com)
+
 ### Open Source Software Foundations
 
 - [jQuery Foundation](https://jquery.org)
