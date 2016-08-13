@@ -10,7 +10,7 @@
 - [Money and Open Source](https://medium.com/open-source-life/money-and-open-source-d44a1953749c#.wim9wlhwx) by Isaac Schleuter
 - [Vue.js author now works on it full time thanks to donations](https://twitter.com/vuejs/status/750560489462259712) by Evan You
 - [Fine Uploader attempted a FOSS-friendly commercial license](https://medium.com/@RayNicholus/disrupting-open-source-the-story-of-fine-uploader-80160eb557d9#.grwnuak60) by Ray Nicholus
-- [OptaPlanner gets picked up by Red Hat](http://www.optaplanner.org/blog/2016/08/07/ADecadeOfOptaPlanner.html) by Geoffrey De Smet
+- [OptaPlanner gets picked mup by Red Hat](http://www.optaplanner.org/blog/2016/08/07/ADecadeOfOptaPlanner.html) by Geoffrey De Smet
 - [Open Source Exploitation](http://supportedsource.org/blog/open-source-exploitation-and-burnout) by SupportedSource
 - [Redis author sponsored by Pivotal labs](http://antirez.com/news/91) by Antirez
 - [Charging for Open Source](http://www.mikeperham.com/2015/11/23/how-to-charge-for-your-open-source) by Mike Perham (author of Sidekiq)
@@ -75,7 +75,7 @@
 
 > These projects are dual-licensed. They require a paid license for non-commercial or closed-source use, but offer a free license for non-commercial or open-source use.
 
-- [Isotope](http://isotope.metafizzy.co), [Flickity](https://flickity.metafizzy.co), [Packery](http://packery.metafizzy.co) (GPLv3)
+- [Isotope](http://isotope.metafizzy.co), [Flickity](http://flickity.metafizzy.co), [Packery](http://packery.metafizzy.co) (GPLv3)
 - [Sequence.js](http://www.sequencejs.com) (GPLv3)
 - [MixItUp](https://mixitup.kunkalabs.com) (CC-BY-NC)
 - [Highcharts](http://www.highcharts.com) (CC-BY-NC)
