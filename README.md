@@ -24,6 +24,7 @@
 - [Who Pays to Keep OS Software Working?](https://www.thoughtworks.com/mingle/news/2015/04/09/Paying-For-Open-Source.html) by Jen Quraishi
 - [Github Issues and Mental Health](http://bumpers.fm/e/audr171motkg00tb32sg) by Dave DeSandro
 - [The Path to Full-time Open Source](http://www.mikeperham.com/2014/10/01/the-path-to-full-time-open-source) by Mike Perham
+- [A handy guide to financial support for open source](https://github.com/nayafia/lemonade-stand) by Nadia Eghbal
 
 ### Reference
 
