@@ -27,6 +27,7 @@
 - [A handy guide to financial support for open source](https://github.com/nayafia/lemonade-stand) by Nadia Eghbal
 - [Elementary OS Lets Users Decide How Much To Pay](http://blog.elementary.io/post/110645528530/payments). See the comments for sensitivity around messaging.
 - [How to Pay for Open Source: Seed Money](http://www.infoworld.com/article/2615419/open-source-software/how-to-pay-for-open-source.html) by InfoWorld
+- [Ways to Earn Money Through Open Source](http://programmers.stackexchange.com/a/100706) via StackExchange
 
 ### Reference
 
