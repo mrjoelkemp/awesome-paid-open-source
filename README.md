@@ -30,6 +30,7 @@
 - [Ways to Earn Money Through Open Source](http://programmers.stackexchange.com/a/100706) via StackExchange
 - [Open Source Infrastructure](https://storify.com/Lukasaoz/open-source-infrastructure-white-paper) by Cory Benfield
 - [The Unseen Labor Behind Our Digital Infrastructure](https://fordfoundcontent.blob.core.windows.net/media/2976/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf) by Nadia Eghbal
+- [The Money In Open-Source Software](https://techcrunch.com/2016/02/09/the-money-in-open-source-software/) by Max Schireson at TechCrunch
 
 ### Reference
 
@@ -43,6 +44,9 @@
 - [BountySource](https://www.bountysource.com)
 - [Open Collective](https://opencollective.com/opensource)
 - [Indiegogo](https://www.indiegogo.com)
+- [Pledgie](https://pledgie.com)
+- [Flattr](https://flattr.com)
+- [Mozilla grants](https://www.mozilla.org/en-US/grants)
 
 ### Payment Platforms
 
