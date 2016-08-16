@@ -28,6 +28,8 @@
 - [Elementary OS Lets Users Decide How Much To Pay](http://blog.elementary.io/post/110645528530/payments). See the comments for sensitivity around messaging.
 - [How to Pay for Open Source: Seed Money](http://www.infoworld.com/article/2615419/open-source-software/how-to-pay-for-open-source.html) by InfoWorld
 - [Ways to Earn Money Through Open Source](http://programmers.stackexchange.com/a/100706) via StackExchange
+- [Open Source Infrastructure](https://storify.com/Lukasaoz/open-source-infrastructure-white-paper) by Cory Benfield
+- [The Unseen Labor Behind Our Digital Infrastructure](https://fordfoundcontent.blob.core.windows.net/media/2976/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf) by Nadia Eghbal
 
 ### Reference
 
