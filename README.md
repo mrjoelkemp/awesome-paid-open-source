@@ -104,6 +104,7 @@
 - [Phaser](http://phaser.io) (MIT) is [sponsored on Patreon](https://www.patreon.com/photonstorm).
 - [Brunch](http://brunch.io) (MIT) is sponsored by [Hell Yeah](http://hellyeah.is).
 - [NeoVim](https://github.com/neovim/neovim) (Apache 2.0) is sponsored by donations via [an ongoing BountySource campaign](https://www.bountysource.com/teams/neovim) and a [successful fundraising effort](https://www.bountysource.com/teams/neovim/fundraiser).
+- [Coala](https://github.com/coala-analyzer/coala) (AGPL v3.0) is sponsored by [Appveyor](https://www.appveyor.com).
 
 ### FAQ and Key Terms
 
