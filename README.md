@@ -1,8 +1,23 @@
-# awesome-paid-open-source [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Paid Open Source [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > Collection of links around paid/sustainable open source development
 
-**Feel free to add links via PRs and file issues to start discussions.**
+## Contributing
+
+Feel free to add links via PRs and file issues to start discussions.
+
+## Table of Contents
+
+- [Perspectives](#perspectives)
+- [Donation Sites](#donation-sites)
+- [Open Source Grants](#open-source-grants)
+- [Payment Platforms](#payment-platforms)
+- [Profit-sharing Platforms](#profit-sharing-platforms)
+- [Open Source Software Foundations](#open-source-software-foundations)
+- [Example Projects](#example-projects)
+- [Sponsored Projects](#sponsored-projects)
+- [Reference](#reference)
+- [FAQ and Key Terms](#faq-and-key-terms)
 
 ### Perspectives
 
@@ -32,12 +47,6 @@
 - [The Unseen Labor Behind Our Digital Infrastructure](https://fordfoundcontent.blob.core.windows.net/media/2976/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf) by Nadia Eghbal
 - [The Money In Open-Source Software](https://techcrunch.com/2016/02/09/the-money-in-open-source-software/) by Max Schireson at TechCrunch
 
-### Reference
-
-- [MySQL dual licensing](http://www.mysql.com/about/legal/licensing/oem)
-- [Wikipedia: Open source business models](https://en.wikipedia.org/wiki/Business_models_for_open-source_software#Approaches)
-- [Paying the Piper](https://github.com/pybee/paying-the-piper) by PyBee / Russell Keith-Magee
-
 ### Donation sites
 
 - [Patreon](https://www.patreon.com)
@@ -46,6 +55,10 @@
 - [Indiegogo](https://www.indiegogo.com)
 - [Pledgie](https://pledgie.com)
 - [Flattr](https://flattr.com)
+- [Gratipay](https://gratipay.com)
+
+### Open Source Grants
+
 - [Mozilla grants](https://www.mozilla.org/en-US/grants)
 
 ### Payment Platforms
@@ -109,6 +122,12 @@
 - [Brunch](http://brunch.io) (MIT) is sponsored by [Hell Yeah](http://hellyeah.is).
 - [NeoVim](https://github.com/neovim/neovim) (Apache 2.0) is sponsored by donations via [an ongoing BountySource campaign](https://www.bountysource.com/teams/neovim) and a [successful fundraising effort](https://www.bountysource.com/teams/neovim/fundraiser).
 - [Coala](https://github.com/coala-analyzer/coala) (AGPL v3.0) is sponsored by [Appveyor](https://www.appveyor.com).
+
+### Reference
+
+- [MySQL dual licensing](http://www.mysql.com/about/legal/licensing/oem)
+- [Wikipedia: Open source business models](https://en.wikipedia.org/wiki/Business_models_for_open-source_software#Approaches)
+- [Paying the Piper](https://github.com/pybee/paying-the-piper) by PyBee / Russell Keith-Magee
 
 ### FAQ and Key Terms
 
