@@ -56,6 +56,7 @@ Feel free to add links via PRs and file issues to start discussions.
 - [Pledgie](https://pledgie.com)
 - [Flattr](https://flattr.com)
 - [Gratipay](https://gratipay.com)
+- [Freedom Sponsors](https://freedomsponsors.org)
 
 ### Open Source Grants
 
