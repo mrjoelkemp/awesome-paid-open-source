@@ -16,6 +16,7 @@ Feel free to add links via PRs and file issues to start discussions.
 - [Open Source Software Foundations](#open-source-software-foundations)
 - [Example Projects](#example-projects)
 - [Sponsored Projects](#sponsored-projects)
+- [Relevant Licenses](#relevant-licenses)
 - [Reference](#reference)
 - [FAQ and Key Terms](#faq-and-key-terms)
 
@@ -123,6 +124,12 @@ Feel free to add links via PRs and file issues to start discussions.
 - [Brunch](http://brunch.io) (MIT) is sponsored by [Hell Yeah](http://hellyeah.is).
 - [NeoVim](https://github.com/neovim/neovim) (Apache 2.0) is sponsored by donations via [an ongoing BountySource campaign](https://www.bountysource.com/teams/neovim) and a [successful fundraising effort](https://www.bountysource.com/teams/neovim/fundraiser).
 - [Coala](https://github.com/coala-analyzer/coala) (AGPL v3.0) is sponsored by [Appveyor](https://www.appveyor.com).
+
+### Relevant Licenses
+
+> A collection of licenses that may be particularly useful for paid open source projects.
+
+- [Business Source License (BSL)](http://timreview.ca/article/691) is a customizable commercial license with language that defines free vs. commercial use (copy-left), with the ability to switch to a free open source license of your choice after a few years.
 
 ### Reference
 
