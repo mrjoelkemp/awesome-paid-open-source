@@ -137,6 +137,7 @@ Feel free to add links via PRs and file issues to start discussions.
 - [MySQL dual licensing](http://www.mysql.com/about/legal/licensing/oem)
 - [Wikipedia: Open source business models](https://en.wikipedia.org/wiki/Business_models_for_open-source_software#Approaches)
 - [Paying the Piper](https://github.com/pybee/paying-the-piper) by PyBee / Russell Keith-Magee
+- [Software Licenses in Plain English](https://tldrlegal.com)
 
 ### FAQ and Key Terms
 
