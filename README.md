@@ -98,7 +98,7 @@ Feel free to add links via PRs and file issues to start discussions.
 - [Tern.js](https://github.com/ternjs/tern) (MIT) is free to use for all projects, but releases language expansion packs via [crowdfunded campaigns](https://www.bountysource.com/issues/1141202-support-es6-features).
 - [JW Player](https://www.jwplayer.com) (CC-BY-NC) [charges for streaming video service and ad platform](https://www.jwplayer.com/get-started/)
 
-> These projects are dual-licensed. They require a paid license for non-commercial or closed-source use, but offer a free license for non-commercial or open-source use.
+> These projects are dual-licensed. They require a paid license for commercial or closed-source use, but offer a free license for non-commercial or open-source use.
 
 - [Isotope](http://isotope.metafizzy.co), [Flickity](http://flickity.metafizzy.co), [Packery](http://packery.metafizzy.co) (GPLv3)
 - [Sequence.js](http://www.sequencejs.com) (GPLv3)
