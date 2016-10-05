@@ -48,6 +48,7 @@ Feel free to add links via PRs and file issues to start discussions.
 - [The Unseen Labor Behind Our Digital Infrastructure](https://fordfoundcontent.blob.core.windows.net/media/2976/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf) by Nadia Eghbal
 - [The Money In Open-Source Software](https://techcrunch.com/2016/02/09/the-money-in-open-source-software/) by Max Schireson at TechCrunch
 - [Who Sponsors Drupal Development?](http://buytaert.net/who-sponsors-drupal-development) by Dries Buytaert
+- [Equity For Effort: Code for Open-Source, Earn Startup Shares](https://focus.parabol.co/equity-for-effort-v2-0-7ca93e0a3968#.yxw9gkg20) by Parabol
 
 ### Donation sites
 
