@@ -99,6 +99,7 @@ Feel free to add links via PRs and file issues to start discussions.
 - [Docker](https://github.com/docker/docker) (Apache 2.0) is free to use for all projects, but offers [premium hosting and training support](https://www.docker.com/pricing).
 - [Tern.js](https://github.com/ternjs/tern) (MIT) is free to use for all projects, but releases language expansion packs via [crowdfunded campaigns](https://www.bountysource.com/issues/1141202-support-es6-features).
 - [JW Player](https://www.jwplayer.com) (CC-BY-NC) [charges for streaming video service and ad platform](https://www.jwplayer.com/get-started/)
+- [Plotly.js](https://github.com/plotly/plotly.js) (MIT) is entirely free to use while the [Plotly platform](https://plot.ly) built on top of the library has a free "community" tier and other paid tiers. Plotly.js features are also funded directly through [paid sponsorships](https://plot.ly/products/consulting-and-oem/).
 
 > These projects are dual-licensed. They require a paid license for commercial or closed-source use, but offer a free license for non-commercial or open-source use.
 
