@@ -100,6 +100,8 @@ Feel free to add links via PRs and file issues to start discussions.
 - [Tern.js](https://github.com/ternjs/tern) (MIT) is free to use for all projects, but releases language expansion packs via [crowdfunded campaigns](https://www.bountysource.com/issues/1141202-support-es6-features).
 - [JW Player](https://www.jwplayer.com) (CC-BY-NC) [charges for streaming video service and ad platform](https://www.jwplayer.com/get-started/)
 - [Plotly.js](https://github.com/plotly/plotly.js) (MIT) is entirely free to use while the [Plotly platform](https://plot.ly) built on top of the library has a free "community" tier and other paid tiers. Plotly.js features are also funded directly through [paid sponsorships](https://plot.ly/products/consulting-and-oem/).
+- [Dnote](https://github.com/dnote/dnote) (AGPLv3) is a free to self-host or use use locally, but [offers a paid, hosted version](https://dnote.io/pricing) for the server side software.
+- [Monica](https://github.com/monicahq/monica) (AGPLv3) is free to self-host, but [offers a paid, hosted version](https://www.monicahq.com/pricing).
 
 > These projects are dual-licensed. They require a paid license for commercial or closed-source use, but offer a free license for non-commercial or open-source use.
 
