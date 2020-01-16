@@ -60,7 +60,7 @@ Feel free to add links via PRs and file issues to start discussions.
 - [Flattr](https://flattr.com)
 - [Gratipay](https://gratipay.com)
 - [Freedom Sponsors](https://freedomsponsors.org)
-- [Issuehunt](https://issuehunt.io/)
+- [Issuehunt](https://issuehunt.io)
 
 ### Open Source Grants
 
