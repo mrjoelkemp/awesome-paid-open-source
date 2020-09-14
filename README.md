@@ -75,6 +75,9 @@ Feel free to add links via PRs and file issues to start discussions.
 - [Pulley](http://pulleyapp.com)
 - [Donorbox](https://donorbox.org)
 
+### Payment Tools
+- [LibreSelery](https://github.com/protontypes/libreselery)
+
 ### Profit-sharing Platforms
 
 - [BountySource Salt](https://salt.bountysource.com)
